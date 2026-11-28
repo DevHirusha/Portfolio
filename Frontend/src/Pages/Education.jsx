@@ -74,6 +74,25 @@ const certificates = [
     color: "text-orange-400",
     link: "/al-certificate.jpeg",
   },
+{
+  title: "AWS Cloud Practitioner Essentials",
+  organization: "Amazon Web Services (AWS)",
+  image: "/aws-certificate.png",
+  description:
+    "Successfully completed the AWS Cloud Practitioner Essentials training, gaining foundational knowledge of AWS Cloud concepts, core services, security, architecture, pricing, and support.",
+  skills: [
+    "Amazon Web Services (AWS)",
+    "Cloud Computing",
+    "AWS Cloud Fundamentals",
+    "Cloud Security",
+    "AWS Core Services",
+    "Cloud Architecture",
+  ],
+  icon: <FaGraduationCap  />,
+  color: "text-orange-400",
+  link: "/aws-certificate.png",
+},
+  
   {
     title: "Assured Diploma in Information Technology(DITEC)",
     organization: "Esoft Metro Campus",
